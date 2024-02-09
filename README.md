@@ -18,3 +18,6 @@ Note: Once you Allow the connection the first time you wont need to repeat this 
 
 
 link to UAD//    gh repo clone 0x192/universal-android-debloater
+
+
+link to F.Droid //   gh repo clone f-droid/fdroid-website
