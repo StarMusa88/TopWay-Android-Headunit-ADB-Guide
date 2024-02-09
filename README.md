@@ -16,7 +16,7 @@ Guide On how to wirelessly Connect Top Way Ts10 Android Head unit using ADB Comm
 Note: Once you Allow the connection the first time you wont need to repeat this process.
 
 
-link to UAD//    gh repo clone 0x192/universal-android-debloater
+link to clone UAD//    gh repo clone 0x192/universal-android-debloater
 
 
-link to F.Droid //   gh repo clone f-droid/fdroid-website
+link to clone F.Droid //   gh repo clone f-droid/fdroid-website
