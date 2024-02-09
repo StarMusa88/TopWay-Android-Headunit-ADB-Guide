@@ -1,5 +1,5 @@
 # TopWay-Android-Headunit-ADB-Guide
-Guide On how to wirelessly Connect Top Way Ts10 Android Head unit using ADB Commands (non-root) and using U.A.D ( Universal Android Debloater) to debloat the Head Unit from unwanted system applications.
+Guide On how to wirelessly Connect Top Way Ts10 Android Head unit using ADB Commands (non-root) and using U.A.D ( Universal Android Debloater) to debloat the Head Unit from unwanted system applications. (((USE AT YOUR OWN RISK)))
 
 1- First we need to coonect to WIFI and enable developers option (7890+current time using 24 hour format) >> for example if the current time is 8:00 PM you type in 789020 << 
 
