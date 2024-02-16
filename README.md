@@ -7,10 +7,11 @@ Guide On how to wirelessly Connect Top Way Ts10 Android Head unit using ADB Comm
 
 3- Next we open Termux and install android-tools >>// pkg install android-tools \\<< we then type in the command ( adb ) to see if the adb command is working. 
 
-4- Finally to connect wirelessly to your HeadUnit we will type in the Termux Terminal 
-( adb connect 192.xx.xx.xx:5555 )  your HeadUnit IP address. you can find your IP address by going into settings to  >> about phone > status //and your Headunits IP address should be listed.
+4- Finally to connect wirelessly to your HeadUnit we will type in the Termux Terminal (adb devices) and you should see a pop-up screen asking you to Allow from this computer press on (Allow). 
 
-5- Once you have established a successfull ADB connection with your headunit you can now use Universal Android Debloater from your PC or Laptop by using step 4 in the guide.
+5- To connect from your PC or Laptop using powershell enter ( adb connect 192.xx.xx.xx:5555 )  your HeadUnit IP address. you can find your IP address by going into settings to  >> about phone > status //and your Headunits IP address should be listed.
+
+6- Once you have established a successfull ADB connection with your headunit you can now use Universal Android Debloater from your PC or Laptop by using step 5 in the guide.
 
 Note: Once you Allow the connection the first time you wont need to repeat this process.
 
