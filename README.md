@@ -35,7 +35,7 @@ Option: 2
 
 <img width="1280" height="720" alt="unnamed (4)" src="https://github.com/user-attachments/assets/007ae2b5-39e9-4879-baad-e2c9966c6203" />
 
-6- Go to Termux terminal and enter adb device -l.
+6- Go to Termux terminal and enter adb devices -l.
 
 <img width="1280" height="720" alt="unnamed (2)" src="https://github.com/user-attachments/assets/a80c97bd-2e90-44a0-a67d-22605244d4c2" />
 
