@@ -21,6 +21,8 @@ Option: 2
 
 1- Go to Factory settings enter the Passcode (123456)
 
+<img width="1280" height="720" alt="unnamed" src="https://github.com/user-attachments/assets/a9cc5f4e-d59e-46a3-962b-587b4937bf1d" />
+
 2- Go to Engineer Mode
 
 3- Go to Debug&Log and Turn on USB Debugging
