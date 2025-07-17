@@ -15,11 +15,11 @@ Option: 1
 
 6- Once you have established a successfull ADB connection with your headunit you can now use Universal Android Debloater from your PC or Laptop by using step 5 in the guide.
 
-Note: Once you Allow the connection the first time you wont need to repeat this process.
+Note: If you restart the HeadUnit you must repeat this process.
 
 Option: 2
 
-1-Go to Factory settings enter the Passcode (123456)
+1- Go to Factory settings enter the Passcode (123456)
 
 2- Go to Engineer Mode
 
@@ -31,7 +31,7 @@ Option: 2
 
 <img width="1280" height="720" alt="unnamed (5)" src="https://github.com/user-attachments/assets/a1eed0aa-fbfe-44fa-9d9e-b48274a23445" />
 
-5- Type setprop service.adb.tcp.port 5555 and press start.
+5- Type "setprop service.adb.tcp.port 5555" and Press Start.
 
 <img width="1280" height="720" alt="unnamed (4)" src="https://github.com/user-attachments/assets/007ae2b5-39e9-4879-baad-e2c9966c6203" />
 
