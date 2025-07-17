@@ -1,5 +1,7 @@
 # TopWay-Android-Headunit-ADB-Guide
-Guide On how to wirelessly Connect Top Way Ts10 Android Head unit using ADB Commands (non-root) and using U.A.D ( Universal Android Debloater) to debloat the Head Unit from unwanted system applications. (((USE AT YOUR OWN RISK)))
+2 Options Guide On how to wirelessly Connect Top Way Ts10 Android Head unit using ADB Commands (non-root) and using U.A.D ( Universal Android Debloater) to debloat the Head Unit from unwanted system applications. (((USE AT YOUR OWN RISK)))
+
+Option: 1
 
 1- First we need to connect to WIFI and enable developers option.(7890+current time using 24 hour format) >> use code 7890 plus current time for example if the current time is 8:00 PM you type in 789020 << 
 
@@ -15,8 +17,40 @@ Guide On how to wirelessly Connect Top Way Ts10 Android Head unit using ADB Comm
 
 Note: Once you Allow the connection the first time you wont need to repeat this process.
 
+Option: 2
 
-link to clone UAD//    gh repo clone 0x192/universal-android-debloater
+1-Go to Factory settings enter the Passcode (123456)
+
+2- Go to Engineer Mode
+
+3- Go to Debug&Log and Turn on USB Debugging
+
+<img width="1280" height="720" alt="unnamed (6)" src="https://github.com/user-attachments/assets/10d4c4d9-8b40-4116-902e-02c58478c6f0" />
+
+4- Go Up to ADB shell 
+
+<img width="1280" height="720" alt="unnamed (5)" src="https://github.com/user-attachments/assets/a1eed0aa-fbfe-44fa-9d9e-b48274a23445" />
+
+5- Type setprop service.adb.tcp.port 5555 and press start.
+
+<img width="1280" height="720" alt="unnamed (4)" src="https://github.com/user-attachments/assets/007ae2b5-39e9-4879-baad-e2c9966c6203" />
+
+6- Go to Termux terminal and enter adb device -l.
+
+<img width="1280" height="720" alt="unnamed (2)" src="https://github.com/user-attachments/assets/a80c97bd-2e90-44a0-a67d-22605244d4c2" />
+
+7- You should see your headunit listed.
+
+<img width="1280" height="720" alt="unnamed (1)" src="https://github.com/user-attachments/assets/825df2a4-5b93-4990-bc26-39be28fed800" />
 
 
-link to clone F.Droid //   gh repo clone f-droid/fdroid-website
+
+
+
+
+link to UAD//   https://github.com/0x192/universal-android-debloater.git  or Newer version https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation.git
+
+
+link to F.Droid //   https://github.com/f-droid/fdroidclient/releases/download/1.18.0/org.fdroid.fdroid_1018050.apk
+
+
