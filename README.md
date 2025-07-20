@@ -26,7 +26,7 @@ Option: 2
 2- Go to Engineer Mode
 
 
-3- Go to Debug&Log predd ADB shell 
+3- Go to Debug&Log go to ADB shell 
 
 <img width="1280" height="720" alt="unnamed (5)" src="https://github.com/user-attachments/assets/a1eed0aa-fbfe-44fa-9d9e-b48274a23445" />
 
