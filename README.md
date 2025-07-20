@@ -25,13 +25,15 @@ Option: 2
 
 2- Go to Engineer Mode
 
-3- Go to Debug&Log and Turn on USB Debugging
+
+3- Go Up to ADB shell 
+
+<img width="1280" height="720" alt="unnamed (5)" src="https://github.com/user-attachments/assets/a1eed0aa-fbfe-44fa-9d9e-b48274a23445" />
+
+4- Go to Debug&Log and Turn on USB Debugging
 
 <img width="1280" height="720" alt="unnamed (6)" src="https://github.com/user-attachments/assets/10d4c4d9-8b40-4116-902e-02c58478c6f0" />
 
-4- Go Up to ADB shell 
-
-<img width="1280" height="720" alt="unnamed (5)" src="https://github.com/user-attachments/assets/a1eed0aa-fbfe-44fa-9d9e-b48274a23445" />
 
 5- Type "setprop service.adb.tcp.port 5555" and Press Start.
 
