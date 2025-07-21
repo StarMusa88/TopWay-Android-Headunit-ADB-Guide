@@ -36,7 +36,7 @@ Option: 2
 <img width="1280" height="720" alt="unnamed (4)" src="https://github.com/user-attachments/assets/007ae2b5-39e9-4879-baad-e2c9966c6203" />
 
 
-5- Go  and Turn on USB Debugging
+5- Go Back and Turn on USB Debugging
 
 <img width="1280" height="720" alt="unnamed (6)" src="https://github.com/user-attachments/assets/10d4c4d9-8b40-4116-902e-02c58478c6f0" />
 
